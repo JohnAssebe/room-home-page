@@ -1,0 +1,13 @@
+.flex_start_layout {
+    @apply flex items-center justify-start gap-6 
+}
+.flex_centered_layout{
+    @apply flex items-center justify-center gap-3
+}
+.header_text{
+    @apply text-5xl font-bold font-league
+}
+
+.paragraph_text{
+    @apply text-darkGrey text-base 
+}
